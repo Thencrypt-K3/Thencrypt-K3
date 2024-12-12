@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Thencrypt-K3
 - 👀 I’m interested in ..."Penetration testing/Security/Creativity/inovations"
 - 🌱 I’m currently learning...."Reverse-engineering"
-- 📫 How to reach me ...<www.linkedin.com/in/khushbu-mahawar-57573b331>
-- 😄 Pronouns: ..."Hey Thencrypt-k3" also "khushbumahawar"
+- 📫 How to reach me ...<www.linkedin.com/in/Thencrypt-k3-57573b331>
+- 😄 Pronouns: ..."Hey Thencrypt-k3" 
 - ⚡ Fun fact: ..."Always Processing"
 
 <!---
